@@ -7,7 +7,7 @@ def main():
     
     # 2. Создание окна (ширина, высота)
     screen = pygame.display.set_mode((800, 600))
-    pygame.display.set_caption("Моя 2D RPG")  # Название в заголовке окна
+    pygame.display.set_caption("Darkonia")  # Название в заголовке окна
     
     # 3. Игровые часы (для контроля FPS)
     clock = pygame.time.Clock()
